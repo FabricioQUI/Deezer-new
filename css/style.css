@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(42, 38, 38);
+}
+
+li{
+    list-style: none;
+    margin: 0px 0px 10px;
+
+}
+
+footer{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    padding: 64px 27px 146px;
+}
+
+a{
+    font-size: 15px;
+    color: white;
+    text-decoration: none;
+}
+
+.list__title{
+    padding: 14px 0px ;
+    margin: 0px 0px 14px;
+}
+
+img{
+    width: 136px;
+}
+
+.footer__container-social{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 85px;
+    height: 200px;
+    justify-content: space-between;
+    padding-top: 30px;
+}
+
+i{
+    font-size: 20px;
+    padding: 7px;
+}
+
+.copyright__paragraph{
+    color: #818181;
+    font-size: 14px;
+    line-height: 1;
+    position: relative;
+}
+
+.footer__container-apps{
+    padding-bottom: 50px;
+    margin-left: 20px;
+}
+
+.footer__playstore-img{
+    height: 45px;
+}
+
+.footer__applestore-img{
+    height: 45px;
+}
+
+
+
+
+
+
+
